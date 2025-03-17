@@ -1,1 +1,1 @@
-# cosmos-recipe
+# odin-recipes
