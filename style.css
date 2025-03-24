@@ -50,3 +50,19 @@ main section img:hover{
     border: 3px solid hsl(0, 0%, 60%);
     border-radius: 3px;
 }
+
+/* recipe content styles */
+
+.main-content{
+    font-size: 1.15em;
+    display: flex;
+    line-height: 1.5em;
+}
+
+.main-content article h2, .main-content article h3{
+    margin-top: 1.1em;
+}
+
+.main-content aside{
+    align-content: center;
+}
