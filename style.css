@@ -11,9 +11,17 @@ nav{
     padding: 12px 6px;
 }
 
-nav h1{
+nav h1 a{
     color: white;
+    text-decoration: none;
+    padding: 3px;
 }
+
+nav h1 a:hover{
+    background-color: hsl(0, 0%, 30%);
+    border-radius: 6px;
+}
+
 li{
     display: inline-block;
     margin-left: 6px;
