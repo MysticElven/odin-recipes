@@ -71,6 +71,14 @@ main section img:hover{
     margin-top: 1.1em;
 }
 
+.main-content article{
+    max-width: 100%;
+}
+
+.main-content article div{
+    width:70%;
+}
+
 .main-content aside{
-    align-content: center;
+    padding: 100px;
 }
